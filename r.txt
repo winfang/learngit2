@@ -1,4 +1,1 @@
-Creating a new branch is quick and simple.
-add dev msg
-add dev2 msg
-dev
+new code on master..
